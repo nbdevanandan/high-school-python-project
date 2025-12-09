@@ -24,12 +24,12 @@ This is my high school final project for Computer Science subject. We'd been tas
 
 ## Screenshots
 
-[Screenshot 1](/media/SS1.png)
-[Screenshot 2](/media/SS2.png)
-[Screenshot 3](/media/SS3.png)
-[Screenshot 4](/media/SS4.png)
-[Screenshot 5](/media/SS5.png)
-[Screenshot 6](/media/SS6.png)
+![Screenshot 1](/media/SS1.png)
+![Screenshot 2](/media/SS2.png)
+![Screenshot 3](/media/SS3.png)
+![Screenshot 4](/media/SS4.png)
+![Screenshot 5](/media/SS5.png)
+![Screenshot 6](/media/SS6.png)
 
 ## Test it out!
 

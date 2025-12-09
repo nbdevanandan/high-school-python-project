@@ -1,0 +1,12 @@
+0 - no match found i.e. no similar data/entry in table
+1 - no entries/data in table i.e. table is empty
+2 - username not found
+3 - password is incorrect
+4 - books limit reached
+5 - book not available
+7 - no loan exist
+8 - member cannot hold book
+9 - maximum input length exceeded
+10 - member has unreturned book
+11 - only one book left
+99 - success

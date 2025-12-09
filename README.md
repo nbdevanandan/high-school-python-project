@@ -24,4 +24,4 @@ This is my high school final project for Computer Science subject. We'd been tas
 
 ## Test it out!
 
-Checkout [initial-setup](/intitial-setup) to setup and test this software.
+Checkout [initial-setup](/initial-setup) to setup and test this software.
